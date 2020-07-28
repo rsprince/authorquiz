@@ -1,0 +1,23 @@
+.authorimage {
+  width: 305px;
+}
+
+.answer {
+  background: #ccc;
+  padding: 20px;
+  border: 1px solid #777;
+  border-left: 8px solid #777;
+  margin-bottom: 20px;
+}
+.correct {
+  background: lime;
+}
+
+.wrong {
+  background: red;
+}
+
+/* .answer:hover {
+  background-color: #777;
+  color: white;
+} */
